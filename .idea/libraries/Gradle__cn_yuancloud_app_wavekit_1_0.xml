@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.yuancloud.app:wavekit-1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wavekit-1.0.aar/e69c9b2d44b8a97cf4f9da2f6d8e38a8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wavekit-1.0.aar/e69c9b2d44b8a97cf4f9da2f6d8e38a8/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.yuancloud.app/wavekit/1.0/51d46b78136bfc3dfe6df1b35d7e109e12170fb3/wavekit-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
